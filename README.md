@@ -30,28 +30,7 @@ I enjoy learning new technologies and implementing hands-on projects using AWS, 
 
 ## 🚀 My Projects
 
-### 1. AWS VPC Infrastructure
-
-- Working with AWS VPC networking.
-- Practicing subnets, routing and cloud networking.
-
-[View Repository](https://github.com/PradnyaNisal/vpc)
-
-### 2. Amazon EKS Cluster
-
-- Hands-on practice with Kubernetes on AWS.
-- Exploring container orchestration and cluster management.
-
-[View Repository](https://github.com/PradnyaNisal/EKS_cluster)
-
-### 3. Terraform Infrastructure
-
-- Practicing Infrastructure as Code using Terraform.
-- Managing AWS infrastructure through configuration files.
-
-[View Repository](https://github.com/PradnyaNisal/Terraform)
-
-### 4. EduBlitz B2B Medical ERP – DevOps Practice
+### 1. EduBlitz B2B Medical ERP – DevOps Practice
 
 - Exploring a Spring Boot microservices-based application.
 - Practicing Docker, Kubernetes, AWS and CI/CD deployment workflows.
