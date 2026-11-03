@@ -8,8 +8,6 @@ I am passionate about Cloud Computing, DevOps automation, Infrastructure as Code
 
 I enjoy learning new technologies and implementing hands-on projects using AWS, Docker, Jenkins, Terraform, and Kubernetes.
 
----
-
 ## 👩‍💻 About Me
 
 - 🎓 BE in Computer Engineering
@@ -52,6 +50,8 @@ I enjoy learning new technologies and implementing hands-on projects using AWS, 
 
 💻 [GitHub](https://github.com/PradnyaNisal)
 
----
+🌐 **Portfolio:** [View My Portfolio](https://pradnyanisal.github.io/pradnya-portfolio/)
+
+💼 [LinkedIn](https://www.linkedin.com/in/pradnya-nisal-689a791a5/)
 
 ⭐ *Always learning, building, and improving my Cloud & DevOps skills.*
